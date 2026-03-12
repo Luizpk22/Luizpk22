@@ -1,7 +1,7 @@
 # Hello! My name is Luiz! 👋
 ## I'm only a aspiring programmer at the beginning of my journey...
 
-- 🤔 Currently, I'm learning Python and SQL, looking for areas like Back-End programming and Data Science!
+- 🤔 Currently, I'm learning Java, Python and SQL, looking for areas like Back-End programming and Data Science!
 
 Want to contact me?
 <div>
